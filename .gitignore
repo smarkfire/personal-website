@@ -3,3 +3,6 @@
 .DS_Store
 Thumbs.db
 commit_msg.txt
+
+.vercel
+.env*
