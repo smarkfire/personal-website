@@ -6,3 +6,6 @@ commit_msg.txt
 
 .vercel
 .env*
+
+node_modules/
+*.log
